@@ -7,7 +7,7 @@ class Fish
     @name = name
   end
 
-  private 
+  private
 
   attr_writer :name
 end
